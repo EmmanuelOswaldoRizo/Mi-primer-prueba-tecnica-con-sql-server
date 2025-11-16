@@ -2,11 +2,11 @@
 
 Este repositorio contiene la resolución de una prueba técnica de SQL.
 
-## 📜 Descripción
+##  Descripción
 
 El script `Prueba tecnica Emmanuel Oswaldo Rizo para TOKA.sql` crea una base de datos desde cero, inserta los datos iniciales y resuelve una serie de ejercicios prácticos.
 
-## 🚀 Habilidades Demostradas en la prueba
+## Habilidades Demostradas en la prueba
 
 * **DDL (Data Definition Language):**
     * `CREATE DATABASE` y `CREATE TABLE`
